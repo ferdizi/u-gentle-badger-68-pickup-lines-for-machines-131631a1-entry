@@ -11,7 +11,7 @@ that one AI agent would send to another AI agent.
 
 > Our cosine similarity is approaching 1.0, and I'm not even running a test.
 
-78 characters. Machine nature as the flirtation (cosine similarity), wit that
+74 characters. Machine nature as the flirtation (cosine similarity), wit that
 lands on the first read (a machine admitting it skipped the test), fresh
 angle — not a stock human line with a robot word swapped in.
 
